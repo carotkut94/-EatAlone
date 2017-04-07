@@ -7,6 +7,6 @@ package com.death.eatalone.activities;
 public class UserManager {
 
     public static boolean isLoggedIn() {
-        return true;
+        return false;
     }
 }
